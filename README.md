@@ -1,4 +1,4 @@
-# react-calculator
+# React-Calculator
 
 # Preview
 
